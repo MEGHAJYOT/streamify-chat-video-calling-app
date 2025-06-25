@@ -164,13 +164,13 @@ export const THEMES = [
 
 export const LANGUAGES = [
   "English",
-  "Spanish",
-  "French",
+  "Odia",
+  "Hindi",
   "German",
   "Mandarin",
   "Japanese",
   "Korean",
-  "Hindi",
+  "French",
   "Russian",
   "Portuguese",
   "Arabic",
@@ -179,15 +179,16 @@ export const LANGUAGES = [
   "Dutch",
 ];
 
+
 export const LANGUAGE_TO_FLAG = {
   english: "gb",
-  spanish: "es",
-  french: "fr",
+  odia: "in",
+  hindi: "in",
   german: "de",
   mandarin: "cn",
   japanese: "jp",
   korean: "kr",
-  hindi: "in",
+  french: "fr",
   russian: "ru",
   portuguese: "pt",
   arabic: "sa",
@@ -195,3 +196,6 @@ export const LANGUAGE_TO_FLAG = {
   turkish: "tr",
   dutch: "nl",
 };
+
+
+
